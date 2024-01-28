@@ -1,0 +1,28 @@
+:root {
+  font-family: "Lato", sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  font-style: normal;
+  box-sizing: border-box;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  font-weight: 500;
+  color: #70E000; 
+  text-decoration: inherit;
+}
+a:hover {
+  color: #38B000;
+  cursor: pointer;
+}
